@@ -1,29 +1,17 @@
-# vue-template
+# Шаблон проекта на Vue.js для ВКИ НГУ
 
-## Project setup
-```
-yarn install
-```
+Потому что в вки не получается создать проект.
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+# Использование
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+```bash
+# клонирование репозитория
+git clone https://github.com/piemekanika/vue-template.git my-project
+cd my-project
 
-### Run your tests
-```
-yarn run test
-```
+# установка зависимостей
+npm install
 
-### Lints and fixes files
+# запуск в дев-режиме
+npm run serve
 ```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
